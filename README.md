@@ -33,15 +33,6 @@
 
 ---
 
-<!-- GitHub Stats -->
-### 📊 깃허브 스탯
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gichulLimitLess&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gichulLimitLess&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 <!-- Contact -->
 ### 📲 연락 환영합니다!
 <div align="center">
