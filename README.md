@@ -9,7 +9,8 @@
 - 🌱 그가 배우고 있는 것은.. **배울 수 있는 모든 것**  
 - 🚀 그의 취미는.. **랩🎤 / 달리기🏃‍♂️ / 컴퓨터수업(?)🧑‍🏫**  
 - 📫 그의 연락처는.. **gichul@kakao.com**
-- 🤸 그의 풀마라톤 PB는.. **03:00:30(2024 JTBC 마라톤)** 
+- 🤸 그의 풀마라톤 PB는.. **03:00:30(2024 JTBC 마라톤)**
+- 📝 그의 좌우명은.. 인생은 겸손에 대한 끝없는 수업이다🫡
 
 ---
 
@@ -48,6 +49,3 @@
   <a href="https://www.instagram.com/jun_h.h/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </div>
 
----
-
-## 🫡인생은 겸손에 대한 끝없는 수업이다.🙄
