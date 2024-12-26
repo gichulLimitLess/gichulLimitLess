@@ -1,7 +1,7 @@
 ![Welcome Banner](banner.png)
 
 <!-- 자기소개 -->
-### 🎄기처리의 공작소!🎶
+# 🎄기처리의 공작소!🎶
 여러 고난과 역경이 도사리는 개발자 시장에 **기처리**가 떴다!!
 그는 **프론트엔드 엔지니어**에 도전한다고 하는데?!
 그의 열정 넘치는 행보를 응원해 보려 한다..🤪
@@ -14,7 +14,7 @@
 ---
 
 <!-- 기술 스택 -->
-### 🛠️ My Tech Stack
+### 🛠️ 기처리의 기술 스택
 <div align="center">
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
@@ -33,7 +33,7 @@
 ---
 
 <!-- GitHub Stats -->
-### 📊 GitHub Stats
+### 📊 깃허브 스탯
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gichulLimitLess&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=gichulLimitLess&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -42,8 +42,8 @@
 ---
 
 <!-- Contact -->
-### 📫 Contact Me
+### 📫 연락주세요..
 <div align="center">
-  <a href="mailto:gichul@kakao.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:gichul@kakao.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=mail&logoColor=white" alt="Email" /></a>
   <a href="https://www.instagram.com/jun_h.h/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </div>
