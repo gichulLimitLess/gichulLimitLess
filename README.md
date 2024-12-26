@@ -42,7 +42,7 @@
 ---
 
 <!-- Contact -->
-### 📫 연락주세요..
+### 📲 연락 환영합니다!
 <div align="center">
   <a href="mailto:gichul@kakao.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=mail&logoColor=white" alt="Email" /></a>
   <a href="https://www.instagram.com/jun_h.h/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
