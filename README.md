@@ -19,7 +19,7 @@
 <!-- 기술 스택 -->
 ### 🛠️ 기처리의 기술 스택
 
-#### 기처리가 잘 쓰고 싶은 친구들.. 😜
+#### 기처리가 잘 쓰고 싶은 친구들.. 😜
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
