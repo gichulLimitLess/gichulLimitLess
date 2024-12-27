@@ -33,7 +33,7 @@
 </div>
 
 <!-- 도구 -->
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
+<div style="display: flex; align-items: center; margin-bottom: 10px; margin-top: 10px">
   <strong style="min-width: 200px;">기처리가 잘 쓰고 싶은 도구들 🔨</strong>
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
