@@ -2,15 +2,17 @@
 
 <!-- 자기소개 -->
 # 🎄기처리의 공작소!🎶
-느슨한 개발자 시장에 **기처리**가 떴다!!<br>
+느슨해진 개발자 시장에 긴장감을 줄 수도? 있는.. **기처리**가 떴다!!<br>
 그는 **프론트엔드 엔지니어**에 도전한다고 하는데?!<br>
 그의 열정 넘치는 행보를 응원해 보려 한다..🤪<br>
 
-- 🌱 그가 배우고 있는 것은.. **배울 수 있는 모든 것**  
+- 🌱 그가 배우고 있는 것은.. **배울 수 있는 모든 것**
+- 🍴 그가 좋아하는 음식은.. **맵고 짜고 단거🍭**  
 - 🚀 그의 취미는.. **랩🎤 / 달리기🏃‍♂️ / 컴퓨터수업(?)🧑‍🏫**  
 - 📫 그의 연락처는.. **gichul@kakao.com**
 - 🤸 그의 풀마라톤 PB는.. **03:00:30(2024 JTBC 마라톤)**
 - 📝 그의 좌우명은.. **인생은 겸손에 대한 끝없는 수업이다🫡**
+- 🏁 그의 인생목표는.. **웃기지만 우습지 않은 사람이 되는 것😆**
 
 ---
 
@@ -34,9 +36,12 @@
 ---
 
 <!-- Contact -->
-### 📲 연락 환영합니다!
+### 📲 연락 감사합니다..☺️
 <div align="center">
   <a href="mailto:gichul@kakao.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=mail&logoColor=white" alt="Email" /></a>
   <a href="https://www.instagram.com/jun_h.h/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://soundcloud.com/junho07021" target="_blank">
+    <img src="https://img.shields.io/badge/SoundCloud-FF5500?style=flat-square&logo=soundcloud&logoColor=white" alt="SoundCloud" />
+  </a>
 </div>
 
