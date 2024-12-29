@@ -37,9 +37,7 @@
 <!-- Contact -->
 ### 📲 연락 감사합니다..☺️
 <div align="left">
-  <a href="mailto:gichul@kakao.com">
-    <img src="https://img.shields.io/badge/Kakao%20Mail-FFCD00?style=flat-square&logo=kakao&logoColor=black" alt="Kakao Email" />
-  </a>
+  <a href="mailto:gichul@kakao.com"><img src="https://img.shields.io/badge/Kakao%20Mail-FFCD00?style=flat-square&logo=kakao&logoColor=black" alt="Kakao Email" /></a>
   <a href="https://www.instagram.com/jun_h.h/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://soundcloud.com/junho07021" target="_blank">
     <img src="https://img.shields.io/badge/SoundCloud-FF5500?style=flat-square&logo=soundcloud&logoColor=white" alt="SoundCloud" />
