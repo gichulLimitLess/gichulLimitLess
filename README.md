@@ -4,9 +4,9 @@
 *This document is primarily written in **Korean**, with English translations provided under each contents.*
 
 <!-- 자기소개 -->
-#### 느슨해진 개발자 시장에 긴장감을 줄 수도? 있는.. **기처리**가 떴다!!<br> *GichuL is slowly coming to this fierce devleopers market!*<br>
-#### 그는 **프론트엔드 엔지니어**에 도전한다고 하는데?!<br> *He said that he wants to be a front engineer?!* <br>
-#### 그의 열정 넘치는 행보를 응원해 보려 한다..🤪<br> *I'm going to cheer him on for his passionate move..🤪* <br>
+### 느슨해진 개발자 시장에 긴장감을 줄 수도? 있는.. **기처리**가 떴다!!<br> *GichuL is slowly coming to this fierce devleopers market!*<br>
+### 그는 **프론트엔드 엔지니어**에 도전한다고 하는데?!<br> *He said that he wants to be a front engineer?!* <br>
+### 그의 열정 넘치는 행보를 응원해 보려 한다..🤪<br> *I'm going to cheer him on for his passionate move..🤪* <br>
 
 - 🌱 그가 배우고 있는 것은.. **배울 수 있는 모든 것**<br>
   *What he's learning is.. Everything he can learn*
