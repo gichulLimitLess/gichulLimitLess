@@ -20,7 +20,7 @@
 
 ## 💫 그를 간단히 알아보자! (Snapshot)
 
-### 🎓Education
+### 🎓 Education
 건국대학교 컴퓨터공학부 (교직과정 이수)<br/>
 Konkuk University – B.S. in Computer Engineering (with College of Education Track)<br/>
 > 2019.03 ~ 2026.02 (졸업 예정 / Expected Graduation)<br/>
