@@ -32,7 +32,7 @@ Konkuk University – B.S. in Computer Engineering (with College of Education Tr
 - **SQLD (SQL Developer)** – 2025년 4월 취득 (Apr 2025)  
 - **정보처리기사 (Engineer Information Processing)** – 2025년 6월 취득 (Jun 2025)
 
-### ℹ TMI (Too Much Information)
+### 🤪 TMI (Too Much Information)
 기처리는 **"인생은 겸손에 대한 끝없는 수업이다"** 라는 말을 좌우명으로 삼고 열심히 삽니다.
 겸손함을 잃지 않으면서도 도전하고 싶기에, **"웃기지만 우습지 않은 사람"** 이 되는 게 그의 인생 목표입니다.
 
