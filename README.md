@@ -98,5 +98,3 @@ Konkuk University – B.S. in Computer Engineering (with Teacher Training Progra
   </a>
 </div>
 
-
----
