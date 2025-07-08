@@ -22,7 +22,7 @@
 
 ### 🎓Education
 건국대학교 컴퓨터공학부 (교직과정 이수)<br/>
-Konkuk University – B.S. in Computer Engineering (with Teacher Training Program)<br/>
+Konkuk University – B.S. in Computer Engineering (with College of Education Track)<br/>
 > 2019.03 ~ 2026.02 (졸업 예정 / Expected Graduation)<br/>
 > GPA (전체 / Overall): 4.01 / 4.5  
 > GPA (전공 / Major): 4.07 / 4.5
