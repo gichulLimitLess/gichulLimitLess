@@ -85,16 +85,9 @@ Konkuk University – B.S. in Computer Engineering (with Teacher Training Progra
 ---
 
 ## 📲 연락 감사합니다.. (Feel Free to Reach Out!)
+[![Kakao Mail](https://img.shields.io/badge/Kakao%20Mail-FFCD00?style=for-the-badge&logo=kakao&logoColor=black)](mailto:gichul@kakao.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jun_h.h/)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/junho07021)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junho-heo-786903357)
 
-<div align="left">
-  <a href="mailto:gichul@kakao.com">
-    <img src="https://img.shields.io/badge/Kakao%20Mail-FFCD00?style=for-the-badge&logo=kakao&logoColor=black" alt="Kakao Email" />
-  </a>
-  <a href="https://www.instagram.com/jun_h.h/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://soundcloud.com/junho07021" target="_blank">
-    <img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud" />
-  </a>
-</div>
 
