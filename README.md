@@ -22,7 +22,7 @@
 
 ### 🎓 Education
 건국대학교 컴퓨터공학부 (교직과정 이수)<br/>
-Konkuk University – B.S. in Computer Engineering (with College of Education Track)<br/>
+Konkuk University – B.S. in Computer Science Engineering (with College of Education Track)<br/>
 > 2019.03 ~ 2026.02 (졸업 예정 / Expected Graduation)<br/>
 > GPA (전체 / Overall): 4.01 / 4.5  
 > GPA (전공 / Major): 4.07 / 4.5
@@ -52,7 +52,7 @@ Konkuk University – B.S. in Computer Engineering (with College of Education Tr
 속도와 리듬, 이젠 논리까지.. 동시에 다루며
 **"배우고, 만들고, 나누는 삶"** 을 살아가고자 하는 사람이 되고자 항상 노력하겠습니다🥹💪
 
-> A coder, rapper, and runner, **GichuL** lives by one motto:  
+> A programmer, rapper, and runner, **GichuL** lives by one motto:  
 > stay humble, keep building, and never stop learning.
 
 
