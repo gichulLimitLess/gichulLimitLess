@@ -2,23 +2,18 @@
 
 ![Welcome Banner](banner.png)
 
-> 💬 이 문서는 **한국어**를 기준으로 작성되었으며, 각 내용 하단에 영어 번역이 포함되어 있습니다.  
-> *This document is primarily written in **Korean**, with English translations provided under each sections.*
-
 ---
-
-### 느슨해진 개발자 시장에 긴장감을 줄 수도? 있는.. **기처리**가 떴다!  
-> *GichuL is slowly coming to this fierce developer's market!*
-
-### 그는 **프론트엔드 엔지니어**에 도전한다고 하는데?!  
-> *He said that he wants to be a front-end engineer?!*
-
-### 그의 열정 넘치는 행보를 응원해 보려 한다.. 🤪  
+### 그가 온다.....!!🫢
+**느슨해진 개발자 시장에 긴장감을 줄 수도? 있는.. **기처리**가 떴다! <br/>
+그는 **프론트엔드 엔지니어**에 도전한다고 하는데?! <br/>
+그의 열정 넘치는 행보를 응원해 보려 한다.. 🤪**
+> *GichuL is slowly coming to this fierce developer's market!* <br/>
+> *He said that he wants to be a front-end engineer?!* <br/>
 > *I'm going to cheer him on for his passionate move.. 🤪*
 
 ---
 
-## 💫 그를 간단히 알아보자! (Snapshot)
+## 💫 그의 프로필.. (Profile)
 
 ### 🎓 Education
 건국대학교 컴퓨터공학부 (교직과정 이수)<br/>
@@ -31,6 +26,20 @@ Konkuk University – B.S. in Computer Science Engineering (with College of Educ
 - **TOEIC Speaking AL (160)** – 2024년 9월 취득 (Sep 2024)  
 - **SQLD (SQL Developer)** – 2025년 4월 취득 (Apr 2025)  
 - **정보처리기사 (Engineer Information Processing)** – 2025년 6월 취득 (Jun 2025)
+
+### 🏃 Experience
+- 건국대학교 중앙힙합동아리 워너패밀리 음악팀장 (2020.01 – 2020.12) <br/>
+*Head of Music Team, Wanna Family (Konkuk University Central Hip-Hop Club)*
+
+
+- 건국대학교 중앙러닝동아리 RIKU 부회장 (2023.07 – 2023.12) <br/>
+*Vice President, RIKU (Konkuk University Central Running Club)*
+
+
+- LG U+ 유레카 2기 프론트엔드 개발자 교육과정 (2025.01 – 2025.08)<br/>
+*Frontend Developer Trainee, Eureka 2nd period Program with LG Uplus*
+
+
 
 ### 😎 TMI (Too Much Information)
 기처리는 **"인생은 겸손에 대한 끝없는 수업이다"** 라는 말을 좌우명으로 삼고 열심히 삽니다.
@@ -52,14 +61,12 @@ Konkuk University – B.S. in Computer Science Engineering (with College of Educ
 속도와 리듬, 이젠 논리까지.. 동시에 다루며
 **"배우고, 만들고, 나누는 삶"** 을 살아가고자 하는 사람이 되고자 항상 노력하겠습니다🥹💪
 
-> A programmer, rapper, and runner, **GichuL** lives by one motto:  
-> stay humble, keep building, and never stop learning.
+> *A programmer, rapper, and runner, **GichuL** lives by one motto:*
+> *stay humble, keep building, and never stop learning.*
 
 
----
-
-## 🛠️ 그의 기술 스택! (Tech Stack)
-### Front-End
+### 🛠️ Tech Stack
+#### Front-End
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -69,7 +76,7 @@ Konkuk University – B.S. in Computer Science Engineering (with College of Educ
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-### Tools & Others
+#### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white)
@@ -77,14 +84,16 @@ Konkuk University – B.S. in Computer Science Engineering (with College of Educ
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
-### Other Languages
+#### Other Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
 
-## 📲 연락 감사합니다.. (Feel Free to Reach Out!)
+
+
+### 📲 Feel Free to Reach Out!
 [![Kakao Mail](https://img.shields.io/badge/Kakao%20Mail-FFCD00?style=for-the-badge&logo=kakao&logoColor=black)](mailto:gichul@kakao.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jun_h.h/)
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/junho07021)
