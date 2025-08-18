@@ -36,8 +36,8 @@ Konkuk University – B.S. in Computer Science Engineering (with College of Educ
 *Vice President, RIKU (Konkuk University Central Running Club)*
 
 
-- LG U+ 유레카 2기 프론트엔드 개발자 교육과정 (2025.01 – 2025.08)<br/>
-*Frontend Developer Trainee, Eureka 2nd period Program with LG Uplus*
+- LG U+ 유레카 2기 프론트엔드 개발자 교육과정 (우수 훈련생 수상) (2025.01 – 2025.08) <br/>
+*Frontend Developer Trainee, Eureka 2nd period Program with LG Uplus (Awarded as Outstanding Trainee)*
 
 
 
