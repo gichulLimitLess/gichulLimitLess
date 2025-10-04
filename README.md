@@ -66,38 +66,42 @@ Konkuk University – B.S. in Computer Science Engineering (with College of Educ
 
 ### 🛠️ Tech Stack
 <table>
-       <tr>
-          <th scope="col" width="25%">Front-End</td>
-          <th scope="col" width="25%">Tools</td>
-          <th scope="col" width="25%">Other Languages</td>
-          <th scope="col" width="25%">Algorithm (노력중입니다..😂)</td>
-       </tr>
-       <tr>
-         <td width="25%">
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-            <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-            <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-            <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-            <img src="https://img.shields.io/badge/Expo-111113?style=for-the-badge&logo=expo&logoColor=edeef0"/>
-            <img src="https://img.shields.io/badge/Zustand-433e38?style=for-the-badge&logo=zustand&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
-         </td>
-         <td width="25%">
-            <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-         </td>
-         <td width="25%">
-            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-         </td>
-         <td width="25%">
-            <a href="https://solved.ac/greatnotes">
-              <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=greatnotes" alt="Solved.ac 프로필"/>
-            </a>
-         </td>
-       </tr>  
+  <tr>
+    <th scope="col" width="50%" align="center">Front-End</th>
+    <th scope="col" width="50%" align="center">Tools</th>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Expo-111113?style=for-the-badge&logo=expo&logoColor=edeef0"/>
+      <img src="https://img.shields.io/badge/Zustand-433e38?style=for-the-badge&logo=zustand&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <th scope="col" width="50%" align="center">Other Languages</th>
+    <th scope="col" width="50%" align="center">Algorithm (노력중입니다..😂)</th>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://solved.ac/greatnotes">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=greatnotes" alt="Solved.ac 프로필"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
 
