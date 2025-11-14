@@ -12,7 +12,7 @@
 > *I'm going to cheer him on for his passionate move.. 🤪*
 
 ---
-### 🎬 Intro Video — “기처리를 1분 안에 알아보기”
+### 🎬 Intro Video — “기처리가 어떤 사람인지 알아봅시다!"
 <a href="https://youtube.com/shorts/xxxx" target="_blank">
   <img src="https://img.shields.io/badge/Watch%201min%20Intro-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
