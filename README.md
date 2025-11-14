@@ -3,6 +3,12 @@
 ![Welcome Banner](banner.png)
 
 ---
+### 🎬 Intro Video — “기처리를 1분 안에 알아보기”
+<a href="https://youtube.com/shorts/xxxx" target="_blank">
+  <img src="https://img.shields.io/badge/Watch%201min%20Intro-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+---
 ### ★그가 온다.....!!★🫢
 **느슨해진 개발자 시장에 긴장감을 줄 수도? 있는.. **기처리**가 떴다! <br/>
 그는 프론트엔드 엔지니어에 도전한다고 하는데?! <br/>
