@@ -3,13 +3,13 @@
 ![Welcome Banner](banner.png)
 
 ---
-### ★그가 온다.....!!★🫢
-**느슨해진 개발자 시장에 긴장감을 줄 수도? 있는.. **기처리**가 떴다! <br/>
-그는 프론트엔드 엔지니어에 도전한다고 하는데?! <br/>
-그의 열정 넘치는 행보를 응원해 보려 한다.. 🤪**
-> *GichuL is slowly coming to this fierce developer's market!* <br/>
-> *He said that he wants to be a front-end engineer?!* <br/>
-> *I'm going to cheer him on for his passionate move.. 🤪*
+### 🫢★기처리의 공작소 운영 방침 3원칙(GichuL's Workshop Rules!)★🎧
+**1. 성장의 기반은 정확한 문제 이해다! <br>
+2. 공작소의 모든 결정은 고객님이 편하게 제품을 쓸 수 있는 방향으로 결정한다! <br/>
+3. 더 나은 제품은 동료들과 함께 만들어 가는 것이다!**
+> *1. Growth starts with a precise understanding of the problem.* <br/>
+> *2. Every decision is made to make the product easier and more comfortable for users.* <br/>
+> *3. Better products are built together, not alone.*
 
 ---
 ### 🎬 Intro Video — “기처리는 어떤 사람일까요?!"
