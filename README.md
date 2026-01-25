@@ -74,7 +74,7 @@ Konkuk University – B.S. in Computer Science Engineering (with College of Educ
 <table>
   <tr>
     <th scope="col" width="50%" align="center">Front-End</th>
-    <th scope="col" width="50%" align="center">Tools</th>
+    <th scope="col" width="50%" align="center">Collaboration / Tools</th>
   </tr>
   <tr>
     <td width="50%" align="center">
@@ -96,12 +96,16 @@ Konkuk University – B.S. in Computer Science Engineering (with College of Educ
     </td>
   </tr>
   <tr>
-    <th scope="col" width="50%" align="center">Other Languages</th>
+    <th scope="col" width="50%" align="center">Back-End</th>
     <th scope="col" width="50%" align="center">Algorithm (노력중입니다..😂)</th>
   </tr>
   <tr>
     <td width="50%" align="center">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+      <br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
     </td>
     <td width="50%" align="center">
       <a href="https://solved.ac/greatnotes">
