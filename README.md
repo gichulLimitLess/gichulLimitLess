@@ -34,16 +34,19 @@ Konkuk University – B.S. in Computer Science Engineering (with College of Educ
 - **정보처리기사 (Engineer Information Processing)** – 2025년 6월 취득 (Jun 2025)
 
 ### 🏃 Experience
-- 건국대학교 중앙힙합동아리 워너패밀리 음악팀장 (2020.01 – 2020.12) <br/>
+- **건국대학교 중앙힙합동아리 워너패밀리 음악팀장** (2020.01 – 2020.12) <br/>
 *Head of Music Team, Wanna Family (Konkuk University Central Hip-Hop Club)*
 
 
-- 건국대학교 중앙러닝동아리 RIKU 부회장 (2023.07 – 2023.12) <br/>
+- **건국대학교 중앙러닝동아리 RIKU 부회장** (2023.07 – 2023.12) <br/>
 *Vice President, RIKU (Konkuk University Central Running Club)*
 
 
-- LG U+ 유레카 2기 프론트엔드 개발자 교육과정 (우수 훈련생 수상) (2025.01 – 2025.08) <br/>
+- **LG U+ 유레카 2기 프론트엔드 개발자 교육과정 (우수 훈련생 수상)** (2025.01 – 2025.08) <br/>
 *Frontend Developer Trainee, Eureka 2nd period Program with LG Uplus (Awarded as Outstanding Trainee)*
+
+- **ZUZU (코드박스) 소프트웨어 엔지니어 인턴** (2025.12 – 현재) <br/>
+*Software Engineer Internship at ZUZU(Kodebox)*
 
 
 
