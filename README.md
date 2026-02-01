@@ -51,7 +51,7 @@ Konkuk University – B.S. in Computer Science Engineering (with College of Educ
 
 
 ### 😎 TMI (Too Much Information)
-기처리는 **"웃기지만 우습지 않은 사람이 되자"** 라는 말을 좌우명으로 삼고 열심히 삽니다.
+기처리는 **"웃기지만 우습지 않은 사람이 되자"** 라는 말을 좌우명으로 삼고, 열정적으로 삽니다.
 
 그는 배우는 데 있어서 열정이 넘치는 사람입니다.
 '배울 수 있는 건 다 배우면서 즐겁게 살고 싶다'는 마음으로 컴퓨터 전공 외에도 교육, 음악, 러닝 등 다양한 영역에 발을 들이고 있습니다.
