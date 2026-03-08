@@ -4,7 +4,7 @@
 
 ---
 ### 🫢★기처리의 공작소 운영 3원칙(GichuL's Workshop Rules!)★🎧
-**1. 성장의 기반은 정확한 문제부터 시작입니다. <br>
+**1. 성장의 기반은 정확한 문제 이해부터 시작입니다. <br>
 2. 공작소의 모든 결정은 고객님이 편하게 제품을 쓸 수 있는 방향으로 결정합니다. <br/>
 3. 더 나은 제품은 동료들과 함께 만들어 가야 합니다.**
 > *1. Growth starts with a precise understanding of the problem.* <br/>
