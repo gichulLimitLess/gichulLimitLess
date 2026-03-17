@@ -45,7 +45,7 @@ Konkuk University – B.S. in Computer Science Engineering (with College of Educ
 - **LG U+ 유레카 2기 프론트엔드 개발자 교육과정 (우수 훈련생 수상)** (2025.01 – 2025.08) <br/>
 *Frontend Developer Trainee, Eureka 2nd period Program with LG Uplus (Awarded as Outstanding Trainee)*
 
-- **ZUZU (코드박스) 소프트웨어 엔지니어 인턴** (2025.12 – 현재) <br/>
+- **ZUZU (코드박스) 소프트웨어 엔지니어** (2025.12 – 현재) <br/>
 *Software Engineer Internship at ZUZU(Kodebox)*
 
 
