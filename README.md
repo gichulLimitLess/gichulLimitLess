@@ -112,9 +112,7 @@ Konkuk University – B.S. in Computer Science Engineering (with College of Educ
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
     </td>
     <td width="50%" align="center">
-      <a href="https://solved.ac/greatnotes">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=greatnotes" alt="Solved.ac 프로필"/>
-      </a>
+      대충 DFS, BFS, DP 등을 기초적으로 알고 있는 정도입니다. 🙇🤸
     </td>
   </tr>
 </table>
