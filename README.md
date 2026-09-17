@@ -29,9 +29,9 @@ Konkuk University – B.S. in Computer Science Engineering (with College of Educ
 > GPA (전공 / Major): 4.07 / 4.5
 
 ### 🪪 Certificate/License
-- **TOEIC Speaking AL (160)** – 2024년 9월 취득 (Sep 2024)  
 - **SQLD (SQL Developer)** – 2025년 4월 취득 (Apr 2025)  
 - **정보처리기사 (Engineer Information Processing)** – 2025년 6월 취득 (Jun 2025)
+- **OPIc IM2** – 2026년 9월 취득 (Sep 2026)  
 
 ### 🏃 Experience
 - **건국대학교 중앙힙합동아리 워너패밀리 음악팀장** (2020.01 – 2020.12) <br/>
