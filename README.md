@@ -87,11 +87,6 @@ Konkuk University – B.S. in Computer Science Engineering (with College of Educ
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/Expo-111113?style=for-the-badge&logo=expo&logoColor=edeef0"/>
-      <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Zustand-433e38?style=for-the-badge&logo=zustand&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
     </td>
     <td width="50%" align="center">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -101,7 +96,7 @@ Konkuk University – B.S. in Computer Science Engineering (with College of Educ
   </tr>
   <tr>
     <th scope="col" width="50%" align="center">Back-End</th>
-    <th scope="col" width="50%" align="center">Algorithm (노력중입니다..😂)</th>
+    <th scope="col" width="50%" align="center">Etc.</th>
   </tr>
   <tr>
     <td width="50%" align="center">
@@ -112,7 +107,7 @@ Konkuk University – B.S. in Computer Science Engineering (with College of Educ
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
     </td>
     <td width="50%" align="center">
-      대충 DFS, BFS, DP 등을 기초적으로 알고 있는 정도입니다. 🙇🤸
+      로직 프로
     </td>
   </tr>
 </table>
