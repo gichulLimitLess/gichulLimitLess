@@ -65,8 +65,8 @@ Konkuk University – B.S. in Computer Science Engineering (with College of Educ
 예전엔 '기가 철철 넘친다' 해서 기처리라고 불렀는데…
 이젠 제품을 만드는 사람으로서 **'좋은 제품을 만들어서 문제를 확실히 처리할 거다'** 는 확고?한 다짐도 담겨 있는 이름이 되었네요.
 
-랩과 러닝, 그리고 이젠 코딩·기획까지... 다양한 영역에서 두려워 하지 않고
-**"배우고, 만들고, 나누는 삶"** 을 살아가고자 하는 사람이 되고자 항상 노력하겠습니다🥹💪
+랩과 러닝, 그리고 이젠 코딩·기획까지... <br/>
+다양한 영역에서 두려워 하지 않고, **"배우고, 만들고, 나누는 삶"** 을 살아가는 사람이 되고자 항상 노력하겠습니다🥹💪
 
 > *A programmer·director, rapper, and runner, **GichuL** lives by one motto:*
 > *stay humble, keep building, and never stop learning.*
