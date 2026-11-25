@@ -1,6 +1,6 @@
 # 🏠 기처리의 공작소 (GichuL's Workshop)
 
-![Welcome Banner](banner.png)
+![Welcome Banner](banner.jpeg)
 
 ---
 ### 🫢★기처리의 공작소 운영 3원칙(GichuL's Workshop Rules!)★🎧
