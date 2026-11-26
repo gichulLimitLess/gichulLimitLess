@@ -13,8 +13,8 @@
 
 ---
 ### 🎬 Intro Video — “기처리는 어떤 사람일까요?!"
-<a href="https://youtube.com/shorts/BGbfj8bWDHo?si=nHXKowrQyWdDPkBq" target="_blank">
-  <img src="https://img.shields.io/badge/Watch%201min%20Intro-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<a href="https://youtube.com/shorts/BGbfj8bWDHo?si=nHXKowrQyWdDPkBq">
+  <img src="https://img.shields.io/badge/Watch%201min%20Intro-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch 1min Intro" />
 </a>
 
 ---
@@ -115,7 +115,7 @@ Konkuk University – B.S. in Computer Science Engineering (with College of Educ
 
 
 ### 📲 Feel Free to Reach Out!
-[![Kakao Mail](https://img.shields.io/badge/Kakao%20Mail-FFCD00?style=for-the-badge&logo=kakao&logoColor=black)](mailto:gichul@kakao.com)
+[![Kakao Mail](https://img.shields.io/badge/Kakao_Mail-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black)](mailto:gichul@kakao.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jun_h.h/)
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/junho07021)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junho-heo-786903357)
